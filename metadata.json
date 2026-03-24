@@ -1,0 +1,5 @@
+{
+  "name": "BNA Internal - Sovereign Layer",
+  "description": "Modern white + green bank-grade internal project management web app with user authentication, admin role management, digital/marketing project tracking, progress dashboards, team assignment, audit logs, file uploads, project categories, deadline tracking, analytics, and full CRUD on users/projects.",
+  "requestFramePermissions": []
+}
